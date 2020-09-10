@@ -3,7 +3,14 @@
 Face Detection and Extraction using pretrained `CNN` model.
 
 <img height="290px" width="400px" alt="with face detection" src="./media/face-001.jpg">
+
+## Face Detection
+
 <img alt="face-detected" src="./media/face_detected.jpg">
+
+## Extracted Face
+
+<img alt="face-detected" src="./media/extracted%20face.jpg">
 
 ## Installation
 
